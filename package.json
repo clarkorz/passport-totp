@@ -21,12 +21,12 @@
   } ],
   "main": "./lib",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport": "~0.1.1",
+    "pkginfo": "0.3.x",
+    "passport": "0.2.x",
     "notp": "2.0.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
+    "mocha": "2.x.x",
     "chai": "1.x.x"
   },
   "scripts": {
