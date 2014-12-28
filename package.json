@@ -1,11 +1,11 @@
 {
   "name": "passport-totp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TOTP authentication strategy for Passport.",
   "keywords": ["passport", "otp", "oath", "totp", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-totp.git"
+    "url": "git://github.com/clarkorz/passport-totp.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-totp/issues"
