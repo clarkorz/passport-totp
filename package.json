@@ -1,6 +1,6 @@
 {
   "name": "passport-totp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "TOTP authentication strategy for Passport.",
   "keywords": ["passport", "otp", "oath", "totp", "auth", "authn", "authentication"],
   "repository": {
@@ -22,7 +22,7 @@
   "main": "./lib",
   "dependencies": {
     "pkginfo": "0.3.x",
-    "passport": "0.2.x",
+    "passport": ">= 0.2.1",
     "notp": "2.0.x"
   },
   "devDependencies": {
